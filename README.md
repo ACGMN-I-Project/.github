@@ -2,8 +2,10 @@
 [English](#English) | [中文](#中文) | [日本語](#日本語)
 
 
+
 # English
 **Full Name:** ACGMN Instrumentality Project
+
 **Alternate Name:** ACGMN 補完計画 | 補完计划
 
 A: Anime | C: Comic | G: Games | M: Music | N: Novel 
@@ -32,11 +34,13 @@ The term "ACGMN Instrumentality Project" refers to a comprehensive initiative ai
 > The term "補完計画" (bǔ wán jì huà), which translates literally as "completeness plan," is often used in the context of the anime series Neon Genesis Evangelion and implies a process of achieving a state of wholeness or perfection. In the context of the ACGMN Instrumentality Project, it likely symbolizes the goal of creating a complete and harmonious ecosystem for these forms of media.
 
 In essence, the ACGMN Instrumentality Project is a grand vision for the future of ACGMN's culture, seeking to unite and elevate these creative fields.
+---
 
 
 # 中文
 
 **全名:** ACGMN Instrumentality Project
+
 **别名:** ACGMN 補完計画 | 補完计划
 
 - A: Anime | 动画
@@ -71,11 +75,14 @@ In essence, the ACGMN Instrumentality Project is a grand vision for the future o
 > "補完计划"（bǔ wán jì huà）这个词在《新世纪福音战士》动画系列中经常使用，意指达到完整或完美状态的过程。在 ACGMN Instrumentality Project 的背景下，它可能象征着为这些媒体形式创建完整和谐的生态系统的目标。
 
 本质上，ACGMN Instrumentality Project 是对 ACGMN 文化未来的宏伟愿景，旨在团结和提升这些创意领域。
+---
+
 
 
 # 日本語
 
 **正式名称:** ACGMN Instrumentality Project
+
 **別名:** ACGMN 補完計画 | 補完計画
 
 - A: Anime | アニメ
