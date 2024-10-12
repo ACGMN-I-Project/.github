@@ -14,11 +14,11 @@ It's a plan designed to promote the better development, dissemination, and utili
 
 ## This plan includes:
 
-- A vision for the future of ACGMN and its related fields.
-- Methods and strategies to realize this vision.
-- A summary of experiences and lessons learned.
+- A vision for the future of ACGMN 和 its related fields.
+- Methods 和 strategies to realize this vision.
+- A summary of experiences 和 lessons learned.
 - Tools created to support the project.
-- A record and collection of various works, events, and other materials produced within the ACGMN field and its related areas.
+- A record 和 collection of various works, events, 和 other materials produced within the ACGMN field 和 its related areas.
 
 ## Explanation:
 The term "ACGMN Instrumentality Project" refers to a comprehensive initiative aimed at fostering the growth 和 enjoyment of various forms of ACGMN's culture, including anime, manga, games, music,  novels.
@@ -30,7 +30,7 @@ The term "ACGMN Instrumentality Project" refers to a comprehensive initiative ai
 - Collaborative: It involves collecting and sharing knowledge, experiences, and tools to benefit the entire ACGMN community.
 - Archival: The project aims to preserve and document the history of ACGMN, ensuring that future generations can appreciate and learn from its rich heritage.
 
-> The term "補完計画" (bǔ wán jì huà), which translates literally as "completeness plan," is often used in the context of the anime series Neon Genesis Evangelion and implies a process of achieving a state of wholeness or perfection. In the context of the ACGMN Instrumentality Project, it likely symbolizes the goal of creating a complete and harmonious ecosystem for these forms of media.
+> The term "補完計画" (bǔ wán jì huà), which translates literally as "completeness plan," is often used in the context of the anime series Neon Genesis Evangelion and implies a process of achieving a state of wholeness or perfection. In the context of the ACGMN Instrumentality Project, it symbolizes the goal of creating a complete 和 harmonious ecosystem for these forms of media.
 
 In essence, the ACGMN Instrumentality Project is a grand vision for the future of ACGMN's culture, seeking to unite and elevate these creative fields.
 ---
@@ -71,7 +71,7 @@ In essence, the ACGMN Instrumentality Project is a grand vision for the future o
 - 协作：它涉及收集和分享知识、经验和工具，以惠及整个 ACGMN 社区。
 - 存档：该项目旨在保存和记录 ACGMN 的历史，确保子孙后代能够欣赏和学习其丰富的遗产。
 
-> "補完计划"（bǔ wán jì huà）这个词在《新世纪福音战士》动画系列中经常使用，意指达到完整或完美状态的过程。在 ACGMN Instrumentality Project 的背景下，它可能象征着为这些媒体形式创建完整和谐的生态系统的目标。
+> "補完计划"（bǔ wán jì huà）这个词在《新世纪福音战士》动画系列中经常使用，意指达到完整或完美状态的过程。在 ACGMN Instrumentality Project 的背景下，它象征着为这些媒体形式创建完整和谐的生态系统的目标。
 
 本质上，ACGMN Instrumentality Project 是对 ACGMN 文化未来的宏伟愿景，旨在团结和提升这些创意领域。
 ---
@@ -112,6 +112,6 @@ ACGMNとその関連分野をより良く発展させ、普及させ、活用す
 - 協力的：このプロジェクトは、知識、経験、およびツールを収集および共有して、ACGMN コミュニティ全体に利益をもたらします。
 - アーカイブ：このプロジェクトは、ACGMN の歴史を保存し、文書化することを目的としており、次世代の人々がその豊かな遺産を鑑賞し、そこから学ぶことができるようになります。
 
-> "補完計画"（bǔ wán jì huà）という用語は、アニメシリーズ「新世紀エヴァンゲリオン」のコンテキストでよく使用され、完全性または完璧な状態を実現するプロセスを意味します。 ACGMN Instrumentality Project のコンテキストでは、おそらくこれらのメディア形式のための完全で調和のとれたエコシステムを作成するという目標を象徴しています。
+> "補完計画"（bǔ wán jì huà）という用語は、アニメシリーズ「新世紀エヴァンゲリオン」のコンテキストでよく使用され、完全性または完璧な状態を実現するプロセスを意味します。 ACGMN Instrumentality Project の文脈では、この言葉は、これらのメディア形式のための完全で調和のとれたエコシステムを構築するという目標を象徴しています。
 
 本質的に、ACGMN Instrumentality Project は、ACGMN 文化の未来のための壮大なビジョンであり、これらのクリエイティブな分野を団結させ、向上させることを目指しています。
