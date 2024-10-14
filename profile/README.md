@@ -14,14 +14,14 @@ It's a plan designed to promote the better development, dissemination, and utili
 
 ## This plan includes:
 
-- A vision for the future of ACGMN 和 its related fields.
-- Methods 和 strategies to realize this vision.
-- A summary of experiences 和 lessons learned.
+- A vision for the future of ACGMN and its related fields.
+- Methods and strategies to realize this vision.
+- A summary of experiences and lessons learned.
 - Tools created to support the project.
-- A record 和 collection of various works, events, 和 other materials produced within the ACGMN field 和 its related areas.
+- A record and collection of various works, events, and other materials produced within the ACGMN field and its related areas.
 
 ## Explanation:
-The term "ACGMN Instrumentality Project" refers to a comprehensive initiative aimed at fostering the growth 和 enjoyment of various forms of ACGMN's culture, including anime, manga, games, music,  novels.
+The term "ACGMN Instrumentality Project" refers to a comprehensive initiative aimed at fostering the growth and enjoyment of various forms of ACGMN's culture, including anime, manga, games, music,  novels.
 
 ## Key points of the project:
 
@@ -30,7 +30,7 @@ The term "ACGMN Instrumentality Project" refers to a comprehensive initiative ai
 - Collaborative: It involves collecting and sharing knowledge, experiences, and tools to benefit the entire ACGMN community.
 - Archival: The project aims to preserve and document the history of ACGMN, ensuring that future generations can appreciate and learn from its rich heritage.
 
-> The term "補完計画" (bǔ wán jì huà), which translates literally as "completeness plan," is often used in the context of the anime series Neon Genesis Evangelion and implies a process of achieving a state of wholeness or perfection. In the context of the ACGMN Instrumentality Project, it symbolizes the goal of creating a complete 和 harmonious ecosystem for these forms of media.
+> The term "補完計画" (bǔ wán jì huà), which translates literally as "completeness plan," is often used in the context of the anime series Neon Genesis Evangelion and implies a process of achieving a state of wholeness or perfection. In the context of the ACGMN Instrumentality Project, it symbolizes the goal of creating a complete and harmonious ecosystem for these forms of media.
 
 In essence, the ACGMN Instrumentality Project is a grand vision for the future of ACGMN's culture, seeking to unite and elevate these creative fields.
 ---
